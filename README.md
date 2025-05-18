@@ -20,7 +20,7 @@ An interactive, web-based trivia game built with Python, Quart, HTML, and the Op
 ![Category Selection](Assets/choose.png)
 
 ### Correct Answer Example  
-![Correct Answer](Assets/right.png)
+![Correct Answer](Assets/right2.png)
 
 ### Incorrect Answer Example  
 ![Wrong Answer](Assets/wrong.png)

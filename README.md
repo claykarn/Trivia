@@ -4,28 +4,27 @@ An interactive, web-based trivia game built with Python, Quart, HTML, and the Op
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ Difficulty selection: Easy, Medium, Hard
-- ✅ Category selection from the full Open Trivia DB API
-- ✅ AI explanations using OpenAI GPT-4
-- ✅ Clean, minimalist UI with hover effects and feedback messages
-- ✅ "New Question" and "Choose New Category" buttons for fast replay
+- Difficulty selection: Easy, Medium, Hard
+- Category selection from the full Open Trivia DB API
+- AI explanations using OpenAI GPT-4
+- "New Question" and "Choose New Category" buttons for fast replay
+- Clean, minimalist HTML UI.
 
 ---
 
 ## 🖼️ Screenshots
 
+### 🧠 Category & Difficulty Selection  
+![Category Selection](Assets/choose.png)
 ### 🟢 Correct Answer Example  
 ![Correct Answer](Assets/right.png)
 
 ### 🔴 Incorrect Answer Example  
 ![Wrong Answer](Assets/wrong.png)
 
-### 🧠 Category & Difficulty Selection  
-![Category Selection](Assets/choose.png)
-
-> 📸 All screenshots located in the `/assets/` folder
+> 📸 All screenshots located in the `/Assets/` folder
 
 ---
 

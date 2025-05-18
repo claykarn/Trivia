@@ -7,31 +7,24 @@ An interactive, web-based trivia game built with Python, Quart, HTML, and the Op
 ## Features
 
 - Difficulty selection: Easy, Medium, Hard
-- Category selection from the full Open Trivia DB API
-- AI explanations using OpenAI GPT-4
+- Category selection from the [Open Trivia DB API](https://opentdb.com/api_config.php)
+- AI explanations implemented using an OpenAI API Key (incorporperated through a dotenv file for security)
 - "New Question" and "Choose New Category" buttons for fast replay
 - Clean, minimalist HTML UI.
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-### 🧠 Category & Difficulty Selection  
+### Category & Difficulty Selection  
 ![Category Selection](Assets/choose.png)
-### 🟢 Correct Answer Example  
+
+### Correct Answer Example  
 ![Correct Answer](Assets/right.png)
 
-### 🔴 Incorrect Answer Example  
+### Incorrect Answer Example  
 ![Wrong Answer](Assets/wrong.png)
 
-> 📸 All screenshots located in the `/Assets/` folder
+> More screenshots located in the `/Assets/` folder
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/ai-trivia-game.git
-cd ai-trivia-game

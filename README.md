@@ -17,13 +17,13 @@ An interactive, web-based trivia game built with Python, Quart, HTML, and the Op
 ## 🖼️ Screenshots
 
 ### 🟢 Correct Answer Example  
-![Correct Answer](assets/right.png)
+![Correct Answer](Assets/righ.png)
 
 ### 🔴 Incorrect Answer Example  
-![Wrong Answer](assets/wrong.png)
+![Wrong Answer](Assets/wrong.png)
 
 ### 🧠 Category & Difficulty Selection  
-![Category Selection](assets/choose.png)
+![Category Selection](Assets/choose.png)
 
 > 📸 All screenshots located in the `/assets/` folder
 

@@ -6,8 +6,8 @@ An interactive, web-based trivia game built with Python, Quart, HTML, and the Op
 
 ## Features
 
-- Difficulty selection: Easy, Medium, Hard
-- Category selection from the [Open Trivia DB API](https://opentdb.com/api_config.php)
+- Question bank from [Open Trivia DB API](https://opentdb.com/api_config.php)
+- Selction menu offers dropdown category selection menu and question difficulty choice (easy, medium, or hard)
 - AI explanations implemented using an OpenAI API Key (incorporperated through a dotenv file for security)
 - "New Question" and "Choose New Category" buttons for fast replay
 - Clean, minimalist HTML UI.

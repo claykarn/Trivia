@@ -68,6 +68,6 @@ your-folder/
 ---
 
 ### 4. Run the App Locally
-Run the chat.py file. This should provide you a link to a local deployment in the terminal that can be opened on an internet browser.
+Finally, run the chat.py file. This should provide you a link in the terminal to a local deployment of the app that can be opened on an internet browser.
 
 --- 

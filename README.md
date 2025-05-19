@@ -17,7 +17,7 @@ An interactive, web-based trivia game built with Python, HTML, Quart, and OpenAI
 ## Screenshots
 
 ### Category & Difficulty Selection  
-![Category Selection](Assets/choose.png)
+![Category Selection](Assets/menu.png)
 
 ### Correct Answer Example  
 ![Correct Answer](Assets/right2.png)

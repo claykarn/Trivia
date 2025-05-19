@@ -51,11 +51,12 @@ In the root folder of your project, create a file named `.env` and paste in:
 
 ```env
 OPENAI_API_KEY=your-api-key-here
-SECRET_KEY=your-random-secret
+```
 
 ---
 
 ### 3. Download the Project Files
+
 Make sure your folder includes the following:
 
 your-folder/

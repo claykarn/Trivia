@@ -60,10 +60,10 @@ OPENAI_API_KEY=your-api-key-here
 Make sure your folder includes the following:
 
 your-folder/
-├── chat.py
-├── .env
-├── templates/
-│   └── index.html
+  - chat.py
+  - .env
+  - templates/
+    - index.html
 
 ---
 

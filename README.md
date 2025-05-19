@@ -28,3 +28,46 @@ An interactive, web-based trivia game built with Python, Quart, HTML, and the Op
 > More screenshots located in the `/Assets/` folder
 
 ---
+
+## Running the App
+
+To run your own version of the trivia game with OpenAI explanations, follow these steps:
+
+---
+
+### 1. Get an OpenAI API Key
+
+1. Sign up at [https://platform.openai.com/signup](https://platform.openai.com/signup)  
+2. Visit your [API keys dashboard](https://platform.openai.com/account/api-keys)  
+3. Click **"Create new secret key"** and copy it somewhere safe
+
+> Treat this key like a password — do **not** share or upload it.
+
+---
+
+### 2. Set up your `.env` file
+
+In the root folder of your project, create a file named `.env` and paste in:
+
+```env
+OPENAI_API_KEY=your-api-key-here
+SECRET_KEY=your-random-secret
+
+---
+
+### 3. Download the Project Files
+Make sure your folder includes the following:
+
+your-folder/
+├── chat.py
+├── .env
+├── templates/
+│   └── index.html
+You can download these files manually or clone the full project from GitHub.
+
+---
+
+### 4. Run the App Locally
+Run the chat.py file. This should provide you a link to a local deployment in the terminal that can be opened on an internet browser.
+
+--- 

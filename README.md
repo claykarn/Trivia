@@ -1,6 +1,6 @@
 # AI-Powered Trivia Game
 
-An interactive, web-based trivia game built with Python, Quart, HTML, and the OpenAI API. Users can choose trivia categories and difficulty levels, answer multiple-choice questions, and receive instant feedback with GPT-powered answer explanations.
+An interactive, web-based trivia game built with Python, HTML, Quart, and OpenAI API. Users can choose trivia categories and difficulty levels, answer multiple-choice questions, and receive instant feedback with GPT-powered answer explanations.
 
 ---
 
@@ -64,7 +64,6 @@ your-folder/
 ├── .env
 ├── templates/
 │   └── index.html
-You can download these files manually or clone the full project from GitHub.
 
 ---
 
